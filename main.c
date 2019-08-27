@@ -10,12 +10,19 @@ Initial Function2()
  //Sample Code
 }
 
+
 feature1 ()
 {
 //f1 added
 
 security patch ()
-{r
+{
+
+f2 added ()
+{
+
+//f2 added
+
 }
 
 
